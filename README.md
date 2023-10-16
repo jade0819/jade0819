@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FFE5F1,50:C0DEFF,100:ADA2FF&height=200&section=header&text=Hi!%20I'm%20jade%20=☽&fontColor=ffffff&fontSize=70&desc=front-end%20developer&descSize=30&descAlignY=80&animation=twinkling)
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+### 🛠️Skills🛠️
+<img src="https://img.shields.io/badge/Jade's-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
+
 <br/>
 <br/>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:BEFFF7,50:9EDDFF,100:6499E9&height=220&section=footer)
