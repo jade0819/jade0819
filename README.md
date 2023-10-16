@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FFE5F1,50:C0DEFF,100:ADA2FF&height=200&section=header&text=Hi!%20I'm%20jade%20=☽&fontColor=ffffff&fontSize=70&desc=front-end%20developer&descSize=30&descAlignY=80&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FFE5F1,50:C0DEFF,100:ADA2FF&height=170&section=header&text=Hi!%20I'm%20jade%20=☽&fontColor=ffffff&fontSize=70&desc=front-end%20developer&descSize=30&descAlignY=80&animation=twinkling)
 
 <br/>
 
