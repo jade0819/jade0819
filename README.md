@@ -25,9 +25,11 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FFE5F1,50:C0DEFF,100:ADA2FF&height=200&section=header&text=Hi!%20I'm%20jade%20=☽&fontColor=ffffff&fontSize=70&desc=front-end%20developer&descSize=30&descAlignY=80&animation=twinkling)
 <br/>
 <br/>
-<center>### 🛠️Skills🛠️</center>
-<img src="https://img.shields.io/badge/Jade's-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
 
+### <center>🛠️Skills🛠️</center>
+
+<p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000"/> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <br/>
 <br/>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:BEFFF7,50:9EDDFF,100:6499E9&height=220&section=footer)
