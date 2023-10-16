@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 
 <br/>
+<br/>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:BEFFF7,50:9EDDFF,100:6499E9&height=220&section=footer)
 
