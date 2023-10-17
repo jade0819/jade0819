@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:BEFFF7,50:9EDDFF,100:6499E9&height=220&section=footer)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:BEFFF7,50:9EDDFF,100:6499E9&height=220&section=footer) -->
 
 </div>
